@@ -1,5 +1,5 @@
 
-# telecom Churn Analysis
+# Telecom Churn Analysis
 
 This is the dashboard which represents the analysis of the customers who has left the company last month and the customers who are still connected with us. In this all process we have identified the reason of churn in the business and the areas on which we need to work on. 
 
@@ -28,6 +28,17 @@ The process of combining the data from different source at one place or in a sin
 3. Data Presentation
 - Visualize the data using charts and graphs.
 - used DAX scripting for calculated measures to represent the numbers.
+
+## Dashboard
+
+The report is divided into 3 parts i.e. 
+- Summary View
+- Churn Details
+- Customer Details
+
+![imageedit_2_7518398577](https://user-images.githubusercontent.com/92555446/188493004-49d05d0f-693e-434e-b932-197b16e6ad17.jpg)
+
+
 
  
 
