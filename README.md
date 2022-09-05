@@ -18,6 +18,7 @@ Visualization is very important to present the data in graphical and visual form
 
 ## Steps Involved
 1. Data Integration
+
 The process of combining the data from different source at one place or in a single view.
 - Extract Data from Excel work sheet.
 - Load into Power Query.
