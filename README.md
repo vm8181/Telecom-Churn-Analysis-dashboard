@@ -96,7 +96,7 @@ This page is basically prepared for the all active and churn customer details li
 - Data Modelling
 
 ## Lession
-While preparing the dashboard I have explored few amazing websites that is very helpful in designing the reports and dashboards. I have written so many DAX for this dashboard most of the I learnt about a very interesting dax function i.e. **Uerelationship**(Enables inactive relationship as per requirement).
+While preparing the dashboard I have explored few amazing websites that is very helpful in designing the reports and dashboards. I have written so many DAX for this dashboard most of the I learnt about a very interesting dax function i.e. **Userelationship**(Enables inactive relationship as per requirement).
 
 ### Reach Out to me
 - vm9455288519@gmail.com
